@@ -2,5 +2,5 @@
     display: flex;
     gap: 20px;
     justify-content: center;
-    margin: 50px auto -50px;
+    transform: translate(0, 50px);
   }

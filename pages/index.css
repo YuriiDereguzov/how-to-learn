@@ -85,7 +85,7 @@
 @import url(../blocks/table/_theme/table_theme_dark.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
-@import url(../blocks/table/__text/_theme/table__text__theme_dark.css);
+@import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 /*footer*/
 @import url(../blocks/footer/__coloumn/_content/footer__coloumn_content_copyright.css);
 @import url(../blocks/footer/__coloumn/_content/footer__coloumn_content_info.css);

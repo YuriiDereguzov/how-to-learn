@@ -19,7 +19,7 @@
 
 [Deploy] — [How to learn](https://yuriidereguzov.github.io/how-to-learn/ "Ссылка на сайт")
 
-# Технологии, инструменты и стек:
+## Технологии, инструменты и стек:
 
 <ul>
   <li>HTML</li>
@@ -27,3 +27,7 @@
   <li>Flexbox</li>
   <li>БЭМ</li>
 </ul>
+
+### Статус проекта:
+
+Завершен
